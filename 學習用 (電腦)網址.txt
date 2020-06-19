@@ -1,4 +1,6 @@
-
+https://ithelp.ithome.com.tw/  itHelp
+https://www.runoob.com/     che herlp
+https://www.javaworld.com.tw/jute/  twja herlp
 
 python~~~~
 https://www.runoob.com/python/python-tutorial.html
@@ -14,6 +16,11 @@ https://progressbar.tw/posts/1
 
 youtube
 https://www.youtube.com/watch?v=XOyjOxVGoUU
+
+java
+https://www.tutorialspoint.com/java/java_strings.htm
+https://docs.oracle.com/javase/8/docs/api/
+https://www.runoob.com/java/java-tutorial.html
 
 µ{¶°¡Õ∂’∫Ùß}
 https://www.tiobe.com/
