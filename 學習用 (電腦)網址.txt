@@ -1,6 +1,7 @@
 https://ithelp.ithome.com.tw/  itHelp
 https://www.runoob.com/     che herlp
 https://www.javaworld.com.tw/jute/  twja herlp
+http://tw.gitbook.net/index.html 極客書
 
 https://developer.mozilla.org/zh-CN/ med docs
 
@@ -23,6 +24,9 @@ java
 https://www.tutorialspoint.com/java/java_strings.htm
 https://docs.oracle.com/javase/8/docs/api/
 https://www.runoob.com/java/java-tutorial.html
+
+http://mackliu.blogspot.com/2016/06/stringstring-switch-import-java.html(身分證寫法)
+
 
 程式趨勢網址
 https://www.tiobe.com/
